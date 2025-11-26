@@ -1,0 +1,52 @@
+baseURL: "https://TheBoyWithDempseyRoll.github.io/"
+title: "From Whale Island to the Pequod"
+theme: "PaperMod"
+
+pagination:
+  pagerSize: 5
+
+enableInlineShortcodes: true
+enableEmoji: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Archives
+          url: archives
+          weight: 5
+        - name: Search
+          url: search
+          weight: 10
+        - name: Tags
+          url: tags
+          weight: 10
+
+params:
+  description: "Deconstructing philosophy, literature and pop culture through an analytical lens."
+  author: "Alp Yağcıoğlu"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+
+  profileMode:
+    enabled: true
+    title: "Alp Yağcıoğlu"
+    subtitle: "Computer Engineering Student @PoliTo | Aspiring Computational Neuroscientist"
+    imageUrl: "https://github.com/TheBoyWithDempseyRoll.png"
+    imageTitle: "Alp"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: GitHub
+        url: "https://github.com/TheBoyWithDempseyRoll"
+      - name: LinkedIn
+        url: "https://www.linkedin.com/in/alp-yağcıoğlu-0335a9260/"
+
+  assets:
+    disableHLJS: true

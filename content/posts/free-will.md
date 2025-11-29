@@ -22,7 +22,7 @@ Mostly, about everything that I find interesting. In my daily life, I constantly
 
 Even if nobody reads it (which is likely—seriously, who reads blogs anymore? Come on.), it is still a nice way to remember the things that crossed my mind. Besides if we consider that the universe is just entropy constantly increasing—everything slowly falling into disorder and if we call this process "time"—then these acts of "saving the moment" have always fascinated me. Writing a sentence or taking a picture is, in a way, the most meaningful discovery in the world. It is our way of creating a little bit of order.
 
-**What should you expect?** Hopefully, something you never thought about before I have always been fascinated by people who can point out a perspective I enver considered. I'd like to believe that I am that kind of person as well.
+**What should you expect?** Hopefully, something you never thought about before I have always been fascinated by people who can point out a perspective I never considered. I'd like to believe that I am that kind of person as well.
 
 My writing will have a certain tone, but I always want to keep the banter alive.
 
@@ -123,7 +123,6 @@ Our collective subconscious is clouded by centuries of theological conditioning 
 But is it really important?
 
 Does the mechanism of the choice actually devalue the experience of the choice?
-(This part lowers my immersion personally, but I still haven’t figured out which part of my brain it bothers.)
 
 As I said at the beginning of the article, in addition to the definitional impossibility of free will, there is also a free will that is hindered by practical obstacles.  **Free will constrained by other wills**
 

@@ -35,7 +35,7 @@ params:
   ShowCodeCopyButtons: true
 
   profileMode:
-    enabled: true
+    enabled: false
     title: "Alp Yağcıoğlu"
     subtitle: "Computer Engineering Student @PoliTo | Aspiring Computational Neuroscientist"
     imageUrl: "https://github.com/TheBoyWithDempseyRoll.png"

@@ -72,7 +72,7 @@ Meruem describes decoding Netero's pattern as "finding a single needle on the su
 
 And he finds it.
 
-![Gungi](/static/images/meruem-gungi.gif)
+![Gungi](/images/meruem-gungi.gif)
 
 He realizes that what Netero perceives as "free, instant choices" in the heat of battle are actually just complex algorithms running on a biological loop. Netero wasn't choosing; he was executing a script written by his past. Once Meruem deciphered the algorithm, the "god" of martial arts became predictable.
 
@@ -88,11 +88,11 @@ In first-degree chaos (like the weather), the system does not care about your pr
 
 (It is funny to realize that just by learning about neural connections right now, you are physically making a neural connection—which means you are making a neural connection about making a neural connection.)
 
-![Huh](/static/images/house-md-huh.gif)
+![Huh](/images/house-md-huh.gif)
 
 A classic example is the bank run: If everyone learns tomorrow that a bank might go bankrupt, everyone withdraws their money today, and the bank will collapse. The prediction creates the reality.
 
-![Bankrupt](/static/images/declare-bankrupt.gif)
+![Bankrupt](/images/declare-bankrupt.gif)
 
 So, does this complexity mean that determinism fails to explain our lack of agency? Not quite.
 

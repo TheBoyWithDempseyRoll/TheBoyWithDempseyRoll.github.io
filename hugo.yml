@@ -33,6 +33,7 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
+  math: true
 
   profileMode:
     enabled: false

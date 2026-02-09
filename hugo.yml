@@ -50,3 +50,8 @@ params:
 
   assets:
     disableHLJS: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

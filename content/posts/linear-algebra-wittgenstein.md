@@ -6,10 +6,14 @@ categories: [Philosophy, Mathematics, Linear Algebra]
 tags: [Wittgenstein, Logic, Vector Space, Tractatus]
 author: Alp Yagcioglu
 math: true
+cover:
+    image: "images/lakegeorge.jpg"
+    alt: "Georgia O'Keeffe - Lake George Reflection"
+    caption: "The mirrored landscape serves as a visual metaphor."
+    relative: false
 ---
 
-![Georgia O'Keeffe - Lake George Reflection](/images/lakegeorge.jpg)
-*<small>Image: Georgia O'Keeffe, "Lake George Reflection" (c. 1921–1922). The mirrored landscape serves as a visual metaphor for the projection of high-dimensional thought into the lower-dimensional plane of language.</small>*
+
 
 ---
 ---

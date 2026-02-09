@@ -6,6 +6,32 @@
     <description>Recent content on From Whale Island to the Pequod</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://TheBoyWithDempseyRoll.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wittgenstein&#39;s Tractatus and the Linear Space of Thought</title>
+      <link>https://TheBoyWithDempseyRoll.github.io/posts/linear-algebra-wittgenstein/</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://TheBoyWithDempseyRoll.github.io/posts/linear-algebra-wittgenstein/</guid>
+      <description>&lt;hr&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This essay is a blog adaptation of a paper originally archived on Zenodo.
+&lt;strong&gt;Original DOI:&lt;/strong&gt; &lt;a href=&#34;https://doi.org/10.5281/zenodo.15798351&#34;&gt;https://doi.org/10.5281/zenodo.15798351&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This essay explores a conceptual analogy between Ludwig Wittgenstein&amp;rsquo;s &lt;em&gt;Tractatus Logico-Philosophicus&lt;/em&gt; and the structure of linear vector spaces in mathematics. It proposes that the limits of language, as discussed in the Tractatus, can be modeled as projections from a high-dimensional conceptual space into lower-dimensional communicative subspaces. Drawing on elements from formal logic, linear algebra, and epistemology, the paper interprets key Tractarian concepts such as totality (&lt;em&gt;Gesamtheit&lt;/em&gt;) and the say/show distinction through the lens of mathematical transformation. The analogy offers a novel framework for understanding the irreducibility of thought into language, the indeterminacy of reference, and the structural instability of certain philosophical questions. Rather than offering a metaphysical solution, the essay argues that some longstanding philosophical problems are symptomatic of linguistic overload or semantic compression, rather than deep ontological mystery. This perspective aims to bridge philosophical analysis with formal reasoning, suggesting a hybrid methodology for investigating the architecture of meaning.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Free Will and it&#39;s Impact to Our Life</title>
+      <link>https://TheBoyWithDempseyRoll.github.io/posts/free-will/</link>
+      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://TheBoyWithDempseyRoll.github.io/posts/free-will/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Hello lads.&lt;/strong&gt;
+Welcome aboard the ship that sails between trivial pop culture, natural sciences, and eternal philosophical debates.&lt;/p&gt;
+&lt;p&gt;Before I start writing, I thought I should explain the basics: What will I write? Why am I doing this? And what I am expecting from it?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What will I write?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Mostly, about everything that I find interesting. In my daily life, I constantly see strange correlations between science, linguistics, pop culture, and literature. So I thought to myself: I should turn these abstract thought processes into something concrete.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

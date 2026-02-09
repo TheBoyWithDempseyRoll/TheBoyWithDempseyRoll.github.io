@@ -1,16 +1,17 @@
- ---
+---
 layout: post
 title: "Wittgenstein's Tractatus and the Linear Space of Thought"
 date: 2026-02-09
 categories: [Philosophy, Mathematics, Linear Algebra]
 tags: [Wittgenstein, Logic, Vector Space, Tractatus]
-cover:
-    image: "/images/lakegeorge.jpg" 
-    alt: "Georgia O'Keefe's drawing called Lake George"
-    caption: "Symbolism of reflection."
-    relative: false
 author: Alp Yagcioglu
 math: true
+---
+
+![Georgia O'Keeffe - Lake George Reflection](/images/lakegeorge.jpg)
+*<small>Image: Georgia O'Keeffe, "Lake George Reflection" (c. 1921–1922). The mirrored landscape serves as a visual metaphor for the projection of high-dimensional thought into the lower-dimensional plane of language.</small>*
+
+---
 ---
 
 

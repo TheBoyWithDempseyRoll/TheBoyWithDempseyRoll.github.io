@@ -4,14 +4,15 @@ title: "Wittgenstein's Tractatus and the Linear Space of Thought"
 date: 2026-02-09
 categories: [Philosophy, Mathematics, Linear Algebra]
 tags: [Wittgenstein, Logic, Vector Space, Tractatus]
+cover:
+    image: "/images/lakegeorge.jpg" 
+    alt: "Georgia O'Keefe's drawing called Lake George"
+    caption: "Symbolism of reflection."
+    relative: false
 author: Alp Yagcioglu
 math: true
 ---
 
-**![Abstract geometric structure representing thought space](/images/lakegeorge.jpg)**
-*<small>Image: Georgia O'Keeffe, "Lake George Reflection" (c. 1921–1922). The mirrored landscape serves as a visual metaphor for the projection of high-dimensional thought into the lower-dimensional plane of language.</small>*
-
----
 
 > **Note:** This essay is a blog adaptation of a paper originally archived on Zenodo.
 > **Original DOI:** https://doi.org/10.5281/zenodo.15798351
@@ -105,49 +106,6 @@ While Quine (1960) argues for the indeterminacy of translation—suggesting that
 The human mind is perhaps the most advanced system on Earth when it comes to detecting patterns—even across entirely unrelated inputs. This cognitive gift is double-edged: it allows us to form lifesaving intuitions, yet also leads us into the traps of false correlation. The belief that a day went better because one wore a blue shirt, or the evolutionary intuition that bright colors signal venom, both arise from this same cognitive engine—expressions along a spectrum between noise and insight.
 
 My own analogy in this essay—the projection of conceptual structures through the lens of linear algebra—is, ultimately, a product of the same pattern-seeking faculty. I can only hope that it falls on the useful end of that spectrum: that it not only offers a clearer map of the boundaries of meaningful expression, but also contributes, however modestly, to the broader project of making the architecture of meaning more communicable.
-
----
-
-## Appendix: Mathematical Definitions
-
-### Vector Space
-A set $$V$$, along with two operations (vector addition and scalar multiplication), is called a vector space over a field $$F$$ if the following conditions are satisfied:
-* **Closure:** If $$u, v \in V$$then$$u+v \in V$$
-* **Scalar multiplication:** If $$c \in F$$and$$v \in V$$, then $$c \cdot v \in V$$
-* **Zero vector exists:** There exists $$0 \in V$$such that$$v+0=v$$
-
-### Linear Dependence
-Vectors $$\{V_{1},V_{2},...,V_{n}\}$$ are linearly dependent if:
-$$c_{1}V_{1}+c_{2}V_{2}+...+c_{n}v_{n}=0$$
-for some scalars $$c_{i} \in F$$, not all zero.
-
-### Determinant ($$|A|$$)
-For a square matrix $$A \in \mathbb{R}^{nxn}$$, $$\det(A)$$is a scalar that reflects whether$$A$$ is invertible.
-* If $$\det(A) \ne 0$$, $$A$$ is full-rank (invertible).
-* If $$\det(A) = 0$$, $$A$$compresses space into lower dimensions$$\rightarrow$$ linear dependence.
-
-### Rank-Nullity Theorem
-Let $$T: V \rightarrow W$$ be a linear transformation. Then:
-$$\dim(V) = \text{rank}(T) + \text{nullity}(T)$$
-This describes how dimensions split between image and kernel.
-
-### Kernel (Null Space)
-The set of all vectors $$v$$such that$$T(v)=0$$:
-$$\ker(T)=\{v \in V \mid T(v)=0\}$$
-It represents all inputs mapped to zero by the transformation.
-
-### Floating-Point Errors
-Due to finite precision, real numbers are stored approximately. For example:
-$$0.1$$(base 10)$$\approx 0.000110011001...$$ (binary) cannot be exactly represented. This leads to rounding errors in computation.
-
-### Machine Precision ($$\epsilon_m$$)
-The smallest $$\epsilon$$ such that:
-$$1+\epsilon \ne 1$$ in computer arithmetic.
-
-For 64-bit IEEE floating point:
-$$\epsilon_{m} \approx 2^{-53} \approx 1.11 \times 10^{-16}$$
-
----
 
 ## References
 

@@ -37,27 +37,8 @@ params:
   profileMode:
     enabled: false
     title: "Alp Yağcıoğlu"
-    subtitle: "Computer Engineering Student @PoliTo | Aspiring Computational Neuroscientist"
-    imageUrl: "https://github.com/TheBoyWithDempseyRoll.png"Dear Prof. Fabris,
-
-I hope this email finds you well.
-
-I am Alp Yagcioglu, the computer engineering student who spoke to you today after the exam about undergraduate research assistant opportunities. You told me to send an email to let you know.
-
-You might also remember me from last year; I asked you a question about Determinism due to physics laws, how these laws affect your life and you gave me a very insightful answer, and I also sent you an essay uploaded in Zenodo from me about Wittgenstein and Linear Algebra which includes physical analogies as well.
-
-My goal in my academic career is computational neuroscience, therefore I want to learn how biological complexities are modeled computationally. After our conversation today, I read your recent paper on detecting genetic mutations in SERS spectra using machine learning. I cannot say I fully understand it of course, however, seeing the creation of a visualization of DNA in waves by light and comparing its difference with ML was truly inspiring for me.
-
-I want to be completely transparent: my coding skills are currently quite basic, however I try to improve day to day by implementing them in neuroscience simulations which are included in my GitHub . And also I would be passionate about trying to improve by completing tasks you give me. And I would also be very happy to assist with daily laboratory tasks, and conduct literature reviews under your guidance.
-
-I wanted to send this email while our conversation was recent. I will be participating in a volunteering project in Greece from the end of February until mid-April. However, I don't intend to think of that period as free time so I would love to use this upcoming period to remotely read any literature you recommend.
-
-Best regards,
-
-Alp Yagcioglu
-Computer Engineering Undergraduate Student
-Politecnico di Torino
-Student ID: [Numaranı yazmayı unutma]
+    subtitle: "Computer Engineering Student @PoliTo | Carbon-based Individual"
+    imageUrl: "https://github.com/TheBoyWithDempseyRoll.png"
     imageTitle: "Alp"
     imageWidth: 120
     imageHeight: 120

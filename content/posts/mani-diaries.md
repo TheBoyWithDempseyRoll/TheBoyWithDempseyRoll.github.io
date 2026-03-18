@@ -7,7 +7,7 @@ tags: [Wittgenstein, Moby Dick, Personal, Travel]
 author: Alp Yagcioglu
 math: true
 cover:
-    image: "images/davincihorse.jpg"
+    image: "/images/davincihorse.jpg"
     alt: "Leonardo Da Vinci - Horse Studies"
     caption: "Demonstration of Horse Anatomy by Da Vinci"
     relative: false

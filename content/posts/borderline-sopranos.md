@@ -130,7 +130,7 @@ According to Yalçın Küçük, what separates man from Homo sapiens is called t
 
 According to Hegel, on the other hand, to be human is to be capable of fighting for a purely abstract concept. That is why Don Quixote attacks the windmills; he rejects the safe and ordinary life of the animal called Homo sapiens and endures suffering for the sake of the human virtues in his mind.
 
-![Don Quixote attacking the windmills.](/images/don.jpg)
+![Don Quixote attacking the windmills.](/images/Don.jpg)
 
 Before humanity could fully evolve into "humanhood," it moved forward guided solely by the primal purpose assigned to it. Yet, unlike every other living being sharing that very same goal, it acquired a unique faculty: the capability for timeless, eternal thought. A lion cub on the savannah cannot fathom reducing its hunting today out of fear that prey might become scarce in the future; yet, a human being can. Ultimately, because the true purpose of this faculty is to push existence as far as it can possibly go, anything a human does outside of this grand design will inevitably crush them under the weight of an existential, destructive misalignment.
 

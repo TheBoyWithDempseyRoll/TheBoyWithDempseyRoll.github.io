@@ -1,6 +1,6 @@
----
+---"
 title: "This Thing of Ours, The Borderline Era: The Sopranos
-date: 2026-04-21
+date: 2026-05-20
 draft: false
 categories: ["Sociology"]
 tags: ["Borderline", "The Sopranos", "Post-Modernism"]
@@ -140,4 +140,4 @@ It is my personal belief that if humanity were to lean its back against a phenom
 
 Personally, I wish for every human being to strive to look beyond the horizon.
 
-As Ferhan Şensoy said: *Utopias are beautiful.*
+As Ferhan Şensoy said: *Utopias are beautiful.*"

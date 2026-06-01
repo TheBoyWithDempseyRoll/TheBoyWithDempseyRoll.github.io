@@ -15,7 +15,9 @@ cover:
 
 Eğer insanlığın yaşayış biçimini bir analojiyle açıklayacak olsaydım, kırsalı galiba tüm önemli organların yerine koyardım. Soluduğumuz havanın oksijeninden soframızdaki ekmeğe, içtiğimiz sudan giydiğimiz giysinin yününe kadar hepsi doğrudan kırsalın bize hediyesidir. Bu hediyeleri insan vücudunu ilmek ilmek ören sayısız damarlardan farklı görmek benim için çok zor. Nasıl vücudumuzda damarlar için "artık o kadar önemli değil" deyip kavramsal olarak önemini azaltamıyorsak, kırsalın insanlığın ve hatta canlılığın devamı için olan önemini de bu şekilde göz ardı edemeyiz. 
 
-Bu konuyu gerçekten bu kadar sistematik irdelememi sağlayan kişi Lara ve onun projesi @kirsalbellek'ti. Onun bilgi birikimi ve kavramsallaştırma becerisine kendi penceremden eşlik etmeye çalıştım. Fakat başlamadan önce, Kırsal Bellek projesinden Lara'nın bahsetmesi bence çok daha faydalı olacaktır:
+
+
+Bu konuyu gerçekten bu kadar sistematik irdelememi sağlayan kişi Lara ve onun projesi **[Kırsal Bellek](https://www.instagram.com/kirsalbellek)**'ti. Onun bilgi birikimi ve kavramsallaştırma becerisine kendi penceremden eşlik etmeye çalıştım. Fakat başlamadan önce, Kırsal Bellek projesinden Lara'nın bahsetmesi bence çok daha faydalı olacaktır:
 
 <div style="color: #97d499; font-size: 1em; padding-left: 15px; border-left: 3px solid #558b2f; margin: 20px 0; line-height: inherit; text-align: justify;">
 Şehirde yaşayan ama zihni uzun süredir başka diyarlarda gezen bir şehir plancısı olarak, “Kırsal Bellek”i kırsal yaşam, aidiyet, hareket, bağlar ve kökler üzerine düşünmek için açtım. Varlığımı ve üretimlerimi daha çok doğallıktan, yavaşlıktan ve ilişkilenme hâlinden yana kurmaya çalışıyorum. Kırsalı yalnızca nostaljik bir kaçış imgesi olarak değil; modern hayatın görünmezleştirdiği dayanışma biçimlerini, üretim bilgilerini ve insanın yaşadığı yerle kurduğu ilişkiyi hatırlatan canlı bir alan olarak görmeye çalışıyorum. Şehrin günlük döngüsünde bulamadığım başka bir his ve kültür saklı orada. Bu arayışın içinde yolu bir şekilde kesişen, merakıma ortak olan insanlara karşı da içimde sessiz ve sonsuz bir teşekkür duygusu var.

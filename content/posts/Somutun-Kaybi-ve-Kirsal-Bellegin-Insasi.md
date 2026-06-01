@@ -7,9 +7,9 @@ tags: ["Kırsal Bellek", "Mekân Sosyolojisi", "Post-Truth"]
 cover:
     image: "/images/arcura.jpeg"
     alt: "Proto-Turkic God Arcura"
-    caption: "Ormanları ve av hayvanlarını koruyan gizemli Eski Türk Tanrısı. - Çizim: Bartu Bölükbaşı, Türk Mitolojisi Atlası"
+    caption: "Ormanları ve av hayvanlarını koruyan gizemli Eski Türk Tanrısı, Arçura. - Çizim: Bartu Bölükbaşı, Türk Mitolojisi Atlası"
     relative: false
-authors: ["Alp Yağcıoğlu", "Lara Çetinel"]
+authors: ["Alp Yağcıoğlu , Lara Çetinel"]
 ---
 
 

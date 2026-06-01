@@ -1,0 +1,19 @@
+<style>
+  .author-alp {
+    color: #2c3e50;
+    line-height: 1.75;
+    margin-bottom: 1.6rem;
+    font-size: 1.1rem;
+  }
+
+  .author-lara {
+    color: #558b2f;
+    line-height: 1.75;
+    margin-bottom: 1.6rem;
+    font-size: 1.1rem;
+  }
+</style>
+
+<p class="author-{{ .Get 0 }}">
+    {{ .Inner | markdownify }}
+</p>

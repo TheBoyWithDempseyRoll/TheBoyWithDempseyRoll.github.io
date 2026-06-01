@@ -90,7 +90,7 @@ Artık ne ürettiği ürünü görüyor ne de tükettiği ürünün üretilişin
 Genel çerçevede insanlığın şu anda bulunduğu konuma bir şekilde geldiğini ve çoğumuzun kentte yaşayıp kırsala dönmeyi (en azından şimdilik) planlamadığını biliyorum. Ancak kırsalın yaşamaya devam etmesi için kentin kırsalın değerinin fark edilmesi, onun için bir can damarıdır. Kırsal yaşam bir "nostalji" veya "hobi tarımı" alanından ibaret değildir; güçlü bilimsel ve akademik bir direniş sahasıdır:
 
 * **Philip McMichael (Gıdanın Siyasi Ekonomisi):** Kırsal yaşamın tasfiyesi, gıda üretimini birkaç dev şirketin kontrolüne sokar. Kırsalı canlı tutmak, devletlerin ve halkların en temel kriz anlarında hayatta kalabilmeleri (Gıda Egemenliği) için yegâne stratejik kaledir.
-* **Wendell Berry (The Unsettling of America):** Tarımın sanayileşmesi ve köylülüğün yok edilmesi, sadece toprağı değil insan ruhunu da tahrip eder. Kırsal, insanın doğayla "bakım/özen" (stewardship) ilişkisi kurduğu ve kentli yabancılaşmaya karşı panzehir bulduğu tek yerdir.
+* **Wendell Berry (The Unsettling of America):** Tarımın sanayileşmesi ve köylülüğün yok edilmesi, sadece toprağı değil insan ruhunu da tahrip eder. Kırsal, insanın doğayla "bakım/özen" ilişkisi (stewardship) kurduğu ve kentli yabancılaşmaya karşı panzehir bulduğu tek yerdir.
 * **Silvia Federici & Massimo De Angelis (Müşterekler):** Kırsal, kapitalizmin henüz metalaştıramadığı dayanışma ağlarını barındırır. İmece, ücretsiz yardımlaşma gibi kavramlar kentin vahşi bireyciliğine karşı direnç alanlarıdır.
 * **Edward O. Wilson (Biyofili Hipotezi):** Milyonlarca yılda doğaya göre evrilen beynimiz için doğadan kopmak tüm psikolojik hastalıkların merkezidir. Kırsal, insanın kendi genetiğiyle barıştığı yerdir.
 

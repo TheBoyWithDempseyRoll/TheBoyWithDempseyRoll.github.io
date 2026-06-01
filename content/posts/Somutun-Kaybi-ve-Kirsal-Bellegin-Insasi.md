@@ -9,11 +9,7 @@ cover:
     alt: "Proto-Turkic God Arcura"
     caption: "Ormanları ve av hayvanlarını koruyan gizemli Eski Türk Tanrısı. - Çizim: Bartu Bölükbaşı, Türk Mitolojisi Atlası"
     relative: false
-authors:
-  - name: "Alp Yağcıoğlu"
-    color_class: "author-alp"
-  - name: "Lara Çetinel"
-    color_class: "author-lara"
+authors: ["Alp Yağcıoğlu", "Lara Çetinel"]
 ---
 
 

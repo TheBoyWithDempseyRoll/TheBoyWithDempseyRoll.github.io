@@ -1,5 +1,6 @@
 ---
 title: "Somutun Kaybı ve Kırsal Belleğin İnşası"
+author: "Alp Yağcıoğlu & Lara Çetinel"
 date: 2026-06-01
 draft: false
 categories: ["Sociology", "Political Ecology"]
@@ -9,7 +10,6 @@ cover:
     alt: "Proto-Turkic God Arcura"
     caption: "Ormanları ve av hayvanlarını koruyan gizemli Eski Türk Tanrısı, Arçura. - Çizim: Bartu Bölükbaşı, Türk Mitolojisi Atlası"
     relative: false
-authors: ["Alp Yağcıoğlu , Lara Çetinel"]
 ---
 
 

@@ -93,22 +93,63 @@ In the Christian period, Hierapolis continued this sacred character in another f
 
 At the other end of the valley, however, a different kind of life was unfolding in Laodikeia. If Hierapolis looked toward the fragility of the body, healing, and death, Laodikeia was more the city of production, trade, public life, and wealth. There, the urban plan makes the everyday sides of life visible: main streets, agoras, a stadium, theatres, baths, a water system, shops, textile and dye production. In Hierapolis, one thinks around water, sacredness, and death; in Laodikeia, one lives more inside commerce, fabric, spectacle, sport, politics, and the everyday crowd.
 
-In the New Testament, in Revelation 3:15-17, the church in Laodikeia is addressed as follows:
+In the New Testament, in Revelation 3:15-16, the church in Laodikeia is addressed as follows:
 
-> ""I know your works: you are neither cold nor hot. I wish that you were either cold or hot. So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth. For you say, 'I am rich, I have prospered, and I need nothing,' not realizing that you are wretched, pitiable, poor, blind, and naked.""
+> ""I know your works: you are neither cold nor hot. I wish that you were either cold or hot. So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth."
 
 It is a very strong interpretation to think that these words in the New Testament rest on Laodikeia's water geography. On one side stood the hot waters of Hierapolis; on the other, the cold springs of Colossae; in the middle stood Laodikeia, forced to bring its water from distant sources. Laodikeia's water was neither the hot healing water of Hierapolis nor the cold, refreshing water of Colossae. By the time it reached the city, it became lukewarm, stripped of its function, almost tasteless as an image.
 
-But the harshness of the text seems directed not only at water, but also at the self-satisfied state created by the city's wealth. Laodikeia may have been a rich city, but in the critique of the New Testament this wealth seems to have produced not vitality, but complacency. How much this prosperity affected Laodikeia's spiritual posture is something I would rather leave to the reader.
 
-Laodikeia, too, reveals something of its soul through its god. If the divine world of Hierapolis is related to the underworld, hot water, prophecy, and death, then in the older memory of Laodikeia stands a more celestial and powerful figure: Zeus. One of the city's earlier names was Diospolis, meaning "the city of Zeus." Even that name suits the character of Laodikeia. Because Laodikeia was a city turned toward the more ambitious, productive, public side of life: trade, textile, money, roads, agoras, stadiums, baths, and wealth.
+Laodikeia, almost says what kind of city it is through its god. Before it was called Laodikeia, one of its older names was Diospolis, the city of Zeus. Later, in the Hellenistic period, it took the name Laodikeia from Laodike, the wife of Antiochus II, but I cannot help feeling that Diospolis tells something more naked about the city. Because if Hierapolis was looking down, toward hot water, caves, steam, prophecy, healing, and death, Laodikeia was looking upward, toward Zeus, power, production, trade, money, public life, and the almost annoying confidence of a city that knows very well how rich it is.
 
-Later, the city was named Laodikeia after Laodike, the wife of the Seleucid king Antiochus II. But the name Diospolis seems to reveal a deeper city spirit: while Hierapolis looked toward the underworld, steam, and death, Laodikeia looked toward the sky, power, and the order of production.
+And this was not only a symbolic confidence. After the great earthquake of 60 CE devastated the cities of the Lykos/Curuksu Valley, Laodikeia refused financial help from Rome and rebuilt itself with its own resources. This is such a Laodikeian gesture that it almost feels literary. The city of Zeus, after being destroyed, does not wait to be saved by the emperor; it stands up and says, in its own way, I can do this myself.
 
+This is why the New Testament’s warning to Laodikeia becomes much more interesting to me:
+
+> “Because thou sayest, I am rich, and increased with goods, and have need of nothing; and knowest not that thou art wretched, and miserable, and poor, and blind, and naked.”
+>
+> — New Testament, Revelation 3:17
+
+Of course, whether this is only a spiritual criticism or also a criticism of the city’s historical self-confidence is something I leave to the reader. But after learning that Laodikeia had once refused Rome’s help and rebuilt itself alone, it is hard not to hear the irony in “I am rich... and have need of nothing.”
+
+This is also where the difference between Hierapolis and Laodikeia becomes much clearer. Hierapolis feels like a compromise between nature and reason. The city is built around hot springs, travertines, vapors, earthquakes, sacred caves, and the strange closeness of death. Laodikeia, however, feels like a city where reason itself wants to become stone. It does not have the same miraculous natural water source inside its body, but instead of surrendering to this, it brings water from far away through open channels, aqueducts, pipes, distribution centers, and regulations. In Hierapolis, water almost calls the city to itself. In Laodikeia, the city calls water to itself.
+
+![Flowers of Laodicea](/images/pembecicekligorsel.jpg)
+* Photo/Figure: Celal Simsek / Laodikeia Excavations
+
+The best examples of this are the open channels, aqueducts, thick terracotta pipes, and later the twin travertine pipes that were more resistant to pressure. Even the inscription that mentions fines for damaging the waterways, polluting the water, or using it illegally feels like one of the clearest proofs of the city’s mentality. Water was not only a natural blessing here; it was an urban system, almost a legal and administrative body.
+
+Laodikeia was organized according to a Hippodamic plan. The insulae north of Syria Street measured around 42 x 51 meters, and in some cases reached 52-54 meters, so the city was arranged through blocks that were almost square. This already separates it from Hierapolis, where the insulae were longer, around 30 x 75 meters. Hierapolis negotiates with the landscape. Laodikeia seems to measure it.
+
+The main axis of Laodikeia is also very clear. Syria Street, running east-west, works as the decumanus and extends for almost one kilometer. Stadium Street, running north-south, works as the cardo, and the excavated section is almost 300 meters long. In Laodikeia, a street is not simply an empty line that takes you from one point to another. It is a mechanism where trade, shade, water, representation, and social life move at the same time.
+
+![Laodicea](/images/laodikya-top.jpg)
+* Photo/Figure: Celal Simsek / Laodikeia Excavations
+
+The city shows this rationality through architecture as well. Syria Street and its gate were built in the Doric order, and this feels very fitting: Doric architecture here does not only mean a type of column, but also repetition, discipline, public weight, and civic seriousness. Yet Laodikeia was not a dead geometric diagram. It was a city full of life, and this is why other architectural languages appear in its religious and public spaces too. In the North Sacred Agora, one temple was probably Corinthian and dedicated to Athena, while another was probably Ionic and dedicated to Zeus Laodikeus. The city’s rational skeleton does not prevent it from having different voices.
+
+On both sides of Syria Street there were porticoes, around 3.70 to 4.30 meters wide, covered to protect people from sun and rain. Behind them were shops, and behind or beside some of these shops were storage areas. Stadium Street was not very different. Some shops even had vaulted storerooms at the back, which must have been especially useful in the summer heat. So Laodikeia’s wealth does not appear only in temples or statues; it also appears in shade, storage, water distribution, and the practical intelligence of daily life.
+
+Its public plan also refuses to trap the city inside a single center. Laodikeia seems to want life to remain active everywhere. Four public baths were placed in four different quarters of the city, and these baths were directly connected with agora areas. Around them were civic structures such as the Bouleuterion, and monumental fountains, or nymphaea, placed at street corners and plazas. Seven fountains have been identified in total. Again, the city distributes life instead of concentrating it in one sacred point.
+
+![Fountain](/images/cesme.jpg)
+* Photo/Figure: Celal Simsek / Laodikeia Excavations
+
+The Ephesos Portico makes this even more visible. It was a wide and impressive ceremonial space used for festivals, feasts, and protocol. With its galleries, statues, arches, pools, shops, and storerooms, it shows that Laodikeia was not only a city that made money, but also a city that knew how to turn money into public display. Wealth here becomes architecture.
+
+And while Hierapolis keeps bringing the body close to healing, age, death, and the underworld, Laodikeia places the body inside a more public and worldly rhythm. The stadium, baths, theatres, porticoes, agoras, and fountains make the city feel full of movement. Here the body does not only approach death through healing; it races, washes, watches, walks, trades, sits in the shade, and becomes part of the civic crowd.
+
+So what happened to Laodikeia? After repeated earthquakes, especially when the water channels were permanently damaged, the city could no longer keep living with the same confidence. In a way, it began to move toward the very source it had once commanded from a distance: Babadağ, ancient Salbakos. The later settlement shifted toward places that were more favorable for water and defense. And the fact that some doors seem to have been blocked or closed in a way that suggests an expectation of return makes this abandonment even more human. It was not necessarily a clean farewell. Perhaps people left thinking they might come back.
+
+And here, of course, I am no longer speaking only as an archaeologist would. Knowing that later Yoruk and Turkmen settlements also often preferred mountainsides and places close to water, I cannot help imagining these different human layers meeting each other somewhere around the slopes, springs, roads, and ruins of Denizli. The people of Laodikeia did not simply disappear like a sentence ending with a full stop. They dissolved into other settlements, other names, other languages, other kitchens, other families. Somewhere between Laodikeia, Babadağ, and Denizli, the old city stopped being a city and became part of the human fabric of the place.
 
 Normally, when I began writing all this, I was also planning to talk about Datca, Mani, and Turin. But the essay grew much longer than I expected, and since I enjoyed both writing and researching it so much, I decided to divide it into two parts in order to stretch that pleasure a little further.
 
-I owe a small note of thanks here as well. While writing this section, I benefited greatly from the Hierapolis archive of Politecnico di Torino. I also owe a small debt of gratitude to the excavation and restoration teams who spent years measuring, drawing, documenting, and raising these stones back into view. The "cold stones" that stirred my imagination as a child can still speak today partly because of their labor.
+I owe a small note of thanks here as well. While writing the Hierapolis section, I benefited greatly from the Hierapolis archive of Politecnico di Torino, and I owe sincere gratitude to the excavation and restoration teams who spent years measuring, drawing, documenting, and raising these stones back into view. The "cold stones" that stirred my imagination as a child can still speak today partly because of their labor.
+
+For the Laodikeia section, I am especially indebted to the work of Celal Simsek and the excavation team of Laodikeia. Some of the Laodikeia photographs I use in this essay also come from his published work, and I want to make that debt visible rather than hide it behind my own sentences. To devote so many years, perhaps almost a lifetime, to bringing a buried city back into the world is not a privilege everyone gets to live, and it is not a labor everyone would have the patience, discipline, or love to carry. I cannot help but feel deep respect for such a visible example of good faith, care, and hard work.
+
+Normally, when I began writing all this, I was also planning to talk about Datca, Mani, and Turin. But the essay grew much longer than I expected, and since I enjoyed both writing and researching it so much, I decided to divide it into two parts in order to stretch that pleasure a little further.
 
 In Colossians 4:13, Paul writes of Epaphras:
 

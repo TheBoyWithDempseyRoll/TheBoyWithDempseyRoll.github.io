@@ -143,7 +143,6 @@ So what happened to Laodikeia? After repeated earthquakes, especially when the w
 
 And here, of course, I am no longer speaking only as an archaeologist would. Knowing that later Yoruk and Turkmen settlements also often preferred mountainsides and places close to water, I cannot help imagining these different human layers meeting each other somewhere around the slopes, springs, roads, and ruins of Denizli. The people of Laodikeia did not simply disappear like a sentence ending with a full stop. They dissolved into other settlements, other names, other languages, other kitchens, other families. Somewhere between Laodikeia, Babadağ, and Denizli, the old city stopped being a city and became part of the human fabric of the place.
 
-Normally, when I began writing all this, I was also planning to talk about Datca, Mani, and Turin. But the essay grew much longer than I expected, and since I enjoyed both writing and researching it so much, I decided to divide it into two parts in order to stretch that pleasure a little further.
 
 I owe a small note of thanks here as well. While writing the Hierapolis section, I benefited greatly from the Hierapolis archive of Politecnico di Torino, and I owe sincere gratitude to the excavation and restoration teams who spent years measuring, drawing, documenting, and raising these stones back into view. The "cold stones" that stirred my imagination as a child can still speak today partly because of their labor.
 
